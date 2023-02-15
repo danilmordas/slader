@@ -1,2 +1,0 @@
-# slader
-slader.github.io
